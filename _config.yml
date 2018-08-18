@@ -1,4 +1,4 @@
-title: Huang Hongyi
+title: Hongyi Huang
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,7 +6,7 @@ url: https://hhy2752.github.io
 
 # Owner/author information
 owner:
-  name:           Huang Hongyi
+  name:           Hongyi Huang
   avatar:         huanghongyi_head.jpg
 #  bio:
   email:          hhy2752@sjtu.edu.cn
@@ -22,7 +22,7 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here ???
-google_verify: "9QJXLb90tUEt-HYq_pFdBy-FoL9L65KiEbZwGoSvcck"
+google_verify: 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -47,8 +47,9 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 future: true
-highlighter: rouge
-markdown: kramdown
+pygments: true
+#markdown: kramdown
+markdown: redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
