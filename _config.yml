@@ -2,12 +2,12 @@ title: Huang Hongyi
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-#url: http://jasonansel.com
+url: https://hhy2752.github.io
 
 # Owner/author information
 owner:
   name:           Huang Hongyi
-  avatar:         huanghongyi.jpg
+  avatar:         huanghongyi_head.jpg
 #  bio:
   email:          hhy2752@sjtu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -21,8 +21,8 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:
 
-# Analytics and webmaster tools stuff goes here
-google_verify:
+# Analytics and webmaster tools stuff goes here ???
+google_verify: "9QJXLb90tUEt-HYq_pFdBy-FoL9L65KiEbZwGoSvcck"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -31,21 +31,20 @@ bing_verify:
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
-  - title: Publications
-    url: /publications/
-  - title: Experience
-    url: /experience/
-  - title: Hobbies
-    url: /hobbies/
+  - title: Education
+    url: /education/
+  - title: Research
+    url: /research/
+  - title: Honors$Awards
+    url: /honorawards/
+  - title: Activities
+    url: /activities/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/New_York
+timezone: Asia/Shanghai
 future: true
-pygments: true
+highlighter: true
 markdown: kramdown
-#markdown: redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
