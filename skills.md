@@ -4,13 +4,13 @@ permalink: /skills/index.html
 title: Skills
 ---
 
-## Language Skills
+### Language Skills
 
-- TOFEL: R+L+S+W
+  TOFEL: R+L+S+W
 
-- GRE: V157+Q169+W3.5
+  GRE: V157+Q169+W3.5
 
-## Computer Skills
+### Computer Skills
 
   matlab
   
