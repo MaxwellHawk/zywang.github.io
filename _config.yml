@@ -1,20 +1,20 @@
-title: Jason Ansel
+title: Huang Hongyi
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jasonansel.com
+#url: http://jasonansel.com
 
 # Owner/author information
 owner:
-  name:           Jason Ansel
-  avatar:         jasonansel.jpg
+  name:           Huang Hongyi
+  avatar:         huanghongyi.jpg
 #  bio:
-  email:          jasonansel@jasonansel.com
+  email:          hhy2752@sjtu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: jansel
-  linkedin: jansel
+  github: hhy2752
+  linkedin:
   instagram:
   lastfm:
   tumblr:
@@ -22,7 +22,7 @@ owner:
   google_plus:
 
 # Analytics and webmaster tools stuff goes here
-google_verify: "JW0gdx05xcJSQe6saaq67u_U1vgdfuh8OxrjS-fEuyQ"
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -44,8 +44,8 @@ links:
 timezone: America/New_York
 future: true
 pygments: true
-#markdown: kramdown
-markdown: redcarpet
+markdown: kramdown
+#markdown: redcarpet
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
