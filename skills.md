@@ -8,7 +8,7 @@ title: Skills
 
   TOFEL: R+L+S+W
 
-  GRE: V157+Q169+W3.5
+  GRE: V+Q+W
 
 ### Computer Skills
 
