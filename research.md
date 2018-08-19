@@ -4,7 +4,7 @@ permalink: /research/index.html
 title: Research
 ---
 
-## Research Experience (further revision)
+### Research Experience (further revision)
 
 - "Magnetism in vacancy-ordered iron selenides" , Shanghai Jiao Tong University, Oct.2017 - Present
 
