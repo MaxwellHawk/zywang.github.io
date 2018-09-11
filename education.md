@@ -7,8 +7,9 @@ title: Education
 ### Education Background
 
 - Shanghai Jiao Tong University, Shanghai, P. R. China 
-    (2015-2019: B.S. in physics)
+    (2015-2019: B.S. in environmental engineering)
+    (2015-2019: second major in computer technology)
 
-  major GPA: -1/4.3     59.9/100
+  major GPA: 3.92/4.30     89.00/100
     
-  ranking: 44/43
+  ranking: 4/58
