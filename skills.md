@@ -6,16 +6,10 @@ title: Skills
 
 ### Language Skills
 
-  TOFEL: R+L+S+W
-
-  GRE: V+Q+W
+  Good at listening and speaking
 
 ### Computer Skills
 
-  matlab
-  
-  C++
-  
-  a little python
+  C++/C/Python/matlab
   
   linux windows
