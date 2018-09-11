@@ -1,19 +1,19 @@
-title: Hongyi Huang
+title: Ziyu Wang
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: https://hhy2752.github.io
+url: https://MaxwellHawk.github.io
 
 # Owner/author information
 owner:
-  name:           Hongyi Huang
-  avatar:         howard.jpg
+  name:           Ziyu Wang
+  avatar:         left.jpg
 #  bio:
-  email:          hhy2752@sjtu.edu.cn
+  email:          blackhawk@sjtu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: hhy2752
+  github: MaxwellHawk
   linkedin:
   instagram:
   lastfm:
