@@ -7,9 +7,9 @@ url: https://MaxwellHawk.github.io
 # Owner/author information
 owner:
   name:           Ziyu Wang
-  avatar:         left.jpg
+  avatar:         ziyuwang.jpg
 #  bio:
-  email:          blackhawk@sjtu.edu.cn
+  email:          ziyuwang@pku.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
@@ -45,7 +45,7 @@ links:
     url: /activities/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 future: true
 highlighter: rouge
 markdown: kramdown
